@@ -42,7 +42,7 @@ header nav a:hover {
 .serie-principal {
   font-size: 16px;
   background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6) 100%);
-  background-image: url(../img/m.jpg);
+  background-image: url(./img/m.jpg);
 
   height: 400px;
   background-size: cover;
